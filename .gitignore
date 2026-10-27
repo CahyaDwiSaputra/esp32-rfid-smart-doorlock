@@ -1,0 +1,5 @@
+.vscode/
+*.hex
+*.elf
+.DS_Store
+Thumbs.db
